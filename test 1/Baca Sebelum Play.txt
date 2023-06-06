@@ -1,0 +1,3 @@
+klik mouse : api 
+
+klik P : sword attack
