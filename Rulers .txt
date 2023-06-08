@@ -1,0 +1,5 @@
+> : Go Right
+< : Go Left 
+W : Go Up
+Click Mouse : Attack
+Space : Pull And Push Object
